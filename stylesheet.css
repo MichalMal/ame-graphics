@@ -16,8 +16,9 @@ html {
 
 body {
     padding-top: 3rem;
-    padding-bottom: 3rem;
+    padding-bottom: 1rem;
     color: #5a5a5a;
+    background-color: #ede7db;
 }
 
 .btn-primary {
