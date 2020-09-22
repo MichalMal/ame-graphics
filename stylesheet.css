@@ -1,13 +1,13 @@
 @import url('https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css');
 
+/*
 html {
     scroll-behavior: smooth
 }
+*/
 
 .checkpoint {
-    padding: 60px 0 0 0;
-    z-index: 10;
-    background-color: #ede7db
+    padding: 0 0 40px 0;
 }
 
 /* GLOBAL STYLES
